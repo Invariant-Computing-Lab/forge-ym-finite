@@ -1,0 +1,10 @@
+{
+  "L": 72,
+  "S": 36,
+  "active_cells": 108,
+  "edges": 1470,
+  "giant_fraction": 1.0,
+  "matches_expected": true,
+  "ratio": 2.0,
+  "vertices": 460
+}

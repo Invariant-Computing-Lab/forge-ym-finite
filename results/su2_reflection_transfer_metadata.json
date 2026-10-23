@@ -1,0 +1,12 @@
+{
+  "tau": 0.35,
+  "j_max": 4.0,
+  "basis_dimension": 81,
+  "quadrature_points_per_link": 64,
+  "one_link_basis_orthogonality_error": 9.326928858198557e-16,
+  "two_link_basis_orthogonality_error": 2.307229436291356e-15,
+  "beta_minus": 0.25,
+  "beta_plus": 0.4,
+  "interaction": 0.3,
+  "unperturbed_energy_gap": 0.9510648074176156
+}

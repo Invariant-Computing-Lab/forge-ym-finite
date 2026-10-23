@@ -1,0 +1,5 @@
+FORGE-YM v0.3 — Peer-review and reproducibility distribution
+
+Copyright (c) 2026 Emirhan Yıldırım. All rights reserved.
+
+This source package is supplied for scientific peer review, verification, and reproducibility assessment. No patent, commercial, redistribution, sublicensing, or derivative-work permission is granted by this notice. A public open-source license may be selected separately before repository release.

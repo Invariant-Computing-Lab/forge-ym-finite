@@ -1,0 +1,15 @@
+{
+  "version": "0.2",
+  "fixed_history_reflection_positivity": true,
+  "full_multigeneration_OS_reconstruction": false,
+  "temporal_plaquette_count_rule": "P_time = C(lower) * binom(4,2) = 6 C(lower)",
+  "slab_ensemble_runs_generations_1_to_3": 24,
+  "all_vertical_graphs_forests": true,
+  "minimum_persistent_matching_fraction": 1.0,
+  "maximum_temporal_gauge_error": 1.1102230246251565e-15,
+  "su2_basis_dimension": 81,
+  "maximum_OS_gram_negative_part": 0.0,
+  "maximum_ratio_observed_error_to_bound": 0.44899957636613536,
+  "exact_heat_kernel_limit_error_epsilon_0": 1.0413132091047525e-15,
+  "claim_boundary": "The result proves reflection positivity only for the doubled finite slab associated with a fixed rewrite history (and positive mixtures of such mirrored histories). It does not prove reflection positivity of arbitrary undoubled or asynchronous multigeneration histories, nor a four-dimensional continuum limit or a uniform mass gap."
+}

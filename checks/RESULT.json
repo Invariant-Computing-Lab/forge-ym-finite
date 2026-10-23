@@ -1,0 +1,20 @@
+{
+  "repo": "forge-ym-finite",
+  "recovery": "CP03R1",
+  "tests_executed": 1,
+  "passed": true,
+  "scope": "Finite mirrored-slab gauge and transfer checks, not arbitrary multigeneration OS positivity or a continuum mass gap.",
+  "commands": [
+    {
+      "command": [
+        "python",
+        "tests/run_tests.py"
+      ],
+      "exit_code": 0,
+      "seconds": 1.67,
+      "stdout": "FORGE-YM v0.3 deterministic audit: PASS\n{'smoke': {'cells': 108, 'vertices': 460, 'edges': 1470}, 'gauge_complex': {'generation': 2, 'q': 2, 'cells': 108, 'vertices': 460, 'edges': 1470, 'plaquettes': 1296, 'primary_triangles': 432, 'closure_quads': 864, 'plaquettes_per_cell': 12.0, 'plaquette_dual_giant_fraction': 1.0, 'plaquette_dual_components': 1, 'max_edge_plaquette_incidence': 6, 'graph_cycle_rank': 1011}, 'slab': {'lower_generation': 2, 'upper_generation': 3, 'seed': 20260726, 'lower_cells': 108, 'upper_cells': 1080, 'lower_primary_edges': 606, 'upper_inherited_edges': 637, 'temporal_channels': 648, 'temporal_plaquettes': 648, 'vertical_edges': 260, 'vertical_graph_is_forest': True, 'vertical_components': 244, 'matching_size': 606, 'matching_fraction': 1.0, 'channel_graph_components': 606, 'max_lower_channel_multiplicity': 3, 'max_upper_channel_multiplicity': 2}, 'temporal_gauge_error': 1.1102230246251565e-15, 'transfer_basis_dimension': 81, 'max_operator_bound_ratio': 0.44899957636613536}\n",
+      "stderr": ""
+    }
+  ],
+  "generated_result_hashes": {}
+}

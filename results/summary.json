@@ -1,0 +1,30 @@
+{
+  "generation2_beta2_C2_signal_to_noise": 2.7156262832232287,
+  "generation2_beta2_effective_screening_mass_r1_r2": 2.1370993491025594,
+  "generation2_beta2_plaquette_mean": 0.4813600187542346,
+  "maximum_gauge_invariance_error": 1.2212453270876722e-15,
+  "millennium_problem_solved": false,
+  "permutation_hashes_equal": true,
+  "proven_finite_result": "For every finite FORGE-YM 2-complex and compact connected gauge group, the heat-kernel transfer operator defined in the report is gauge-equivariant, self-adjoint, compact, positivity improving, and has a strictly positive finite-volume gap.",
+  "q2_ensemble_all_plaquette_duals_connected": true,
+  "q2_ensemble_max_edge_plaquette_incidence": 8,
+  "q2_generation4": {
+    "cells": 10368.0,
+    "closure_quads": 82944.0,
+    "edges": 141129.0,
+    "generation": 4.0,
+    "graph_cycle_rank": 97090.0,
+    "max_edge_plaquette_incidence": 6.0,
+    "plaquette_dual_components": 1.0,
+    "plaquette_dual_giant_fraction": 1.0,
+    "plaquettes": 124416.0,
+    "plaquettes_per_cell": 12.0,
+    "primary_triangles": 41472.0,
+    "q": 2.0,
+    "seed": 20260726.0,
+    "vertices": 44040.0
+  },
+  "smoke_test_passed": true,
+  "su2_single_triangle_minimum_gap_g": 0.8979797979797981,
+  "su2_single_triangle_minimum_gap_on_grid": 1.344921759176752
+}

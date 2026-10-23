@@ -1,0 +1,27 @@
+{
+  "repo": "forge-ym-finite",
+  "codes": [
+    "N012"
+  ],
+  "commands": [
+    [
+      "python",
+      "tests/run_tests.py"
+    ]
+  ],
+  "check_cwd": ".",
+  "scope": "Finite mirrored-slab gauge and transfer checks, not arbitrary multigeneration OS positivity or a continuum mass gap.",
+  "status": "LOCAL_CHECKS_PASS_OWNER_GATES_OPEN",
+  "source_unchanged": true,
+  "owner_approval_required": true,
+  "public_uploaded": false,
+  "source_reference": "See private release registry; source hashes retained.",
+  "last_check": {
+    "repo": "forge-ym-finite",
+    "passed": true,
+    "scope": "Finite mirrored-slab gauge and transfer checks, not arbitrary multigeneration OS positivity or a continuum mass gap.",
+    "commands": 1,
+    "readiness": "LOCAL_CHECKS_PASS_OWNER_GATES_OPEN",
+    "reason": "Declared local checks passed; scientific, rights and deployment scope remain limited."
+  }
+}

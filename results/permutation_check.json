@@ -1,0 +1,11 @@
+{
+  "base_edges": 1470,
+  "base_hash": "8ca23cc0bdfabbf7e3d93dbfd16dc2b9",
+  "base_plaquettes": 1296,
+  "base_vertices": 460,
+  "hashes_equal": true,
+  "relabeled_edges": 1470,
+  "relabeled_hash": "8ca23cc0bdfabbf7e3d93dbfd16dc2b9",
+  "relabeled_plaquettes": 1296,
+  "relabeled_vertices": 460
+}

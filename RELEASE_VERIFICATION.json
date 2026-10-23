@@ -1,0 +1,14 @@
+{
+  "schema": "invariant.software_release_verification.v1",
+  "runtime_status": "PASS",
+  "scope": "Finite mirrored-slab gauge and transfer checks, not arbitrary multigeneration OS positivity or a continuum mass gap.",
+  "checked_in": "isolated Linux container; Python 3.13.5 / Node 22.16.0 / Chromium 144 where applicable",
+  "actual_server_tested": false,
+  "actual_windows_tested": false,
+  "hosted_platform_tested": false,
+  "public_release_performed": false,
+  "public_rights_approved": false,
+  "target_codes": [],
+  "source_class": "archived_source",
+  "evidence_file_in_delivery_audit": "original_github_final_results.json"
+}

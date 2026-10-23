@@ -1,0 +1,45 @@
+{
+  "title": "FORGE-YM continuum mass-gap falsification protocol",
+  "version": "0.3",
+  "master_seed": 20260726,
+  "central_hypothesis": "There exists a gauge-equivariant coarse-graining and scale assignment for which FORGE-YM finite measures converge to a nontrivial four-dimensional Osterwalder-Schrader Yang-Mills theory with a finite strictly positive physical mass gap.",
+  "primary_quantity": "m_n = -log(lambda_1,n/lambda_0,n)/a_n",
+  "required_limit": "0 < liminf m_n <= limsup m_n < infinity",
+  "rejection_criteria": [
+    {
+      "id": "RP",
+      "criterion": "A reproducible negative eigenvalue of an Osterwalder-Schrader Gram matrix persists beyond certified numerical error, or an analytic counterexample is found."
+    },
+    {
+      "id": "GAP_ZERO",
+      "criterion": "Controlled finite-size and cutoff extrapolations prefer m_G=0 and m_n tends to zero."
+    },
+    {
+      "id": "GAP_INF",
+      "criterion": "The renormalized physical mass m_n diverges as a_n tends to zero."
+    },
+    {
+      "id": "NO_RG",
+      "criterion": "No coupling/coarse-graining flow matches the preregistered independent gauge-invariant observables with residuals tending to zero."
+    },
+    {
+      "id": "WRONG_DIM",
+      "criterion": "Independent spectral, metric, walk, and causal diagnostics fail to approach a common four-dimensional universality class."
+    },
+    {
+      "id": "TRIVIAL",
+      "criterion": "All connected higher correlators vanish in the proposed limit or the renormalized interaction tends to zero."
+    },
+    {
+      "id": "NO_UNIVERSALITY",
+      "criterion": "Dimensionless mass, string-tension, or susceptibility ratios retain nonvanishing dependence on seed, update ordering, or admissible microscopic rule variants."
+    }
+  ],
+  "minimum_reporting": [
+    "All parameter scans, failed runs, and seeds",
+    "Autocorrelation and effective sample-size diagnostics",
+    "At least three independent scale-setting observables",
+    "Competing zero-gap, finite-gap, and divergent-gap extrapolation models",
+    "Independent code or precision replication for any positivity violation"
+  ]
+}

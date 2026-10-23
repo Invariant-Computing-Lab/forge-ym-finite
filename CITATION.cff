@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the accompanying FORGE-YM v0.3 manuscript."
+title: "FORGE-YM v0.3 code and reproducibility package"
+type: software
+authors:
+  - family-names: "Yıldırım"
+    given-names: "Emirhan"
+version: "0.3"
+date-released: "2026-07-27"
+license: "LicenseRef-PeerReview-AllRightsReserved"

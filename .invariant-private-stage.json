@@ -1,0 +1,11 @@
+{
+  "private_staging_only": true,
+  "source_archive_sha256": "5eb2064d2e6725a0710b53d9aa5d8d68f527af3cd21d752f4485af4387c66d40",
+  "package_entry": "PACKAGES/LAB_RESEARCH/lab-cross/GITHUB/forge-ym-finite.zip",
+  "package_sha256": "c79b661cb484ce577d48a9f9861a5e8ffdf56ad5d9a52a63d30671e2f24fe01f",
+  "branch": "invariant-private-stage-20261024",
+  "source_file_count": 49,
+  "github_workflow_files_held": 1,
+  "rights_approved": false,
+  "public_release_authorized": false
+}
